@@ -1,1 +1,1 @@
-# UFO_Sightings_Javascript
+# UFO_Sightings_Javascript by Kieran Persaud
