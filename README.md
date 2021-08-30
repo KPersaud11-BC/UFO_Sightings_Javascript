@@ -51,6 +51,9 @@ This webpage also allows you to filter by several elements. The table below show
 
 ## Summary
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
--Download to excel/csv
--cleaning up duration and making it searchable
--date range
+One particular drawback of this design is that it is sequential. One must give serious thought to the order in which one filters the table. Otherwise they may miss out on desired data.
+
+Here are three recommendations that Dana can make to the page in future iterations.
+- Under the filter elements, there can be a "Download Excel/CSV" button, which downloads the filtered data for the users.
+- Dana can clean the duration data and create another filter element for it. Currently in the table, the duration has various formats that should be standardized.
+- Finally, Dana can modify the Filter Date into a Filter Date Range. Users can then search sightings within a designated timeframe.
